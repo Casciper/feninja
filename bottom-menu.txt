@@ -1,0 +1,21 @@
+<div class="toolbar">
+		<div class="container">
+			<ul class="toolbar-bottom toolbar-wrap">
+				<li class="toolbar-item">
+					<a href="#" class="toolbar-link toolbar-link-active">
+						<i class="icon ion-ios-home"></i>
+					</a>
+				</li>
+				<li class="toolbar-item">
+					<a href="#" class="toolbar-link">
+						<i class="icon ion-ios-navigate"></i>
+					</a>
+				</li>
+				<li class="toolbar-item">
+					<a href="#" class="toolbar-link">
+						<i class="icon ion-ios-person"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
