@@ -156,7 +156,6 @@ if (isset($_POST['add_contacts'])) {
 		<!-- end search bar -->
 		<div class="separator-large"></div>
 
-
 	<script src="../js/jquery-3.4.1.min.js"></script>
 	<script src="../js/bootstrap.bundle.min.js"></script>
 	<script src="../js/fakeLoader.js"></script>

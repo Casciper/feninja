@@ -154,6 +154,8 @@
 			</div>
 		</div>
 
+		<div id="show"></div>
+
 		<div class="navbar profile-about">
 		<div class="left">
 			<p class="right-about-text">6 отзывов</p>
@@ -274,6 +276,21 @@
 					</div>
 				</form>
 	<!-- end pages wrapper -->
+			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script type="text/javascript">
+	$(function() {
+		$(window).scroll(function(){
+			var distanceTop = $('#show').offset().top - $(window).height();
+			if  ($(window).scrollTop() > distanceTop)
+				$('#slidebox').animate({'bottom':'0px'},300);
+			else
+				$('#slidebox').stop(true).animate({'bottom':'-200px'},200);
+		});
+		$('#slidebox .close').bind('click',function(){
+			$(this).parent().remove();
+		});
+	});
+</script>
 
 	<script src="js/jquery-3.4.1.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
