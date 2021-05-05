@@ -102,29 +102,35 @@
 					</div>
 					<div class="col-6 checkbox_category3">
 						<div class="category-elemnt">
-							 <label><input type="checkbox" value="Hair service" name="uslugi[]"><span></span></label>
+							 <label><input type="checkbox" value="Hair service - hircut" name="uslugi[]"><span></span></label>
 							 </div>
-						<div class="text-center uslugi-text">Hair service</div>
+						<div class="text-center uslugi-text">Hair service - hircut</div>
 					</div>
 					<div class="col-6 checkbox_category4">
+						<div class="category-elemnt">
+							 <label><input type="checkbox" value="Hair service - color" name="uslugi[]"><span></span></label>
+							 </div>
+						<div class="text-center uslugi-text">Hair service - color</div>
+					</div>
+					<div class="col-6 checkbox_category5">
 						<div class="category-elemnt">
 							 <label><input type="checkbox" value="Cosmetology service" name="uslugi[]"><span></span></label>
 							 </div>
 						<div class="text-center uslugi-text">Cosmetology service</div>
 					</div>
-					<div class="col-6 text-center checkbox_category1">
+					<div class="col-6 checkbox_category6">
 						<div class="category-elemnt">
 							 <label><input type="checkbox" value="Make-up service" name="uslugi[]"><span></span></label>
 							 </div>
 						<div class="text-center uslugi-text">Make-up service</div>
 					</div>
-					<div class="col-6 checkbox_category2">
+					<div class="col-6 checkbox_category7">
 						<div class="category-elemnt">
 							 <label><input type="checkbox" value="Lushes service" name="uslugi[]"><span></span></label>
 							 </div>
 						<div class="text-center uslugi-text">Lushes service</div>
 					</div>
-					<div class="col-6 checkbox_category3">
+					<div class="col-6 checkbox_category8">
 						<div class="category-elemnt">
 							 <label><input type="checkbox" value="Brow bar service" name="uslugi[]"><span></span></label>
 							 </div>
