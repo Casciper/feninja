@@ -69,7 +69,7 @@ if (isset($_POST['add_contacts'])) {
 								<div class="separator-small"></div>
 						<div class="input-wrap">
 							<span id="text_container">
-							<label class="inst-media">https://www.instagram.com/</label><input type="text" name="inst" placeholder="имя профиля">
+							<label style="font-size: 12px;" class="inst-media">https://www.instagram.com/</label><input type="text" name="inst" placeholder="имя профиля">
 							</span>
 						</div>
 						
