@@ -1,3 +1,19 @@
+
+
+$(function() {
+    $(window).scroll(function(){
+      var distanceTop = $('#show').offset().top - $(window).height();
+      if  ($(window).scrollTop() > distanceTop)
+        $('#slidebox').animate({'bottom':'0px'},300);
+      else
+        $('#slidebox').stop(true).animate({'bottom':'-200px'},200);
+    });
+    $('#slidebox .close').bind('click',function(){
+      $(this).parent().remove();
+    });
+  });
+
+
 $(function() {
 
   'use strict';

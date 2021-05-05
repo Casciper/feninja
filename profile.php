@@ -153,9 +153,7 @@
 				</div>
 			</div>
 		</div>
-
 		<div id="show"></div>
-
 		<div class="navbar profile-about">
 		<div class="left">
 			<p class="right-about-text">6 отзывов</p>
@@ -258,6 +256,10 @@
 		</div>
 	</div>
 -->
+<div id="slidebox">
+	<a class="close"></a>
+</div>
+
 
 	<a href="#x" class="overlay" id="win4"></a>
 			<div class="popup">
@@ -275,23 +277,9 @@
 						<button class="button">Сохранить</button>
 					</div>
 				</form>
-	<!-- end pages wrapper -->
-			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-	<script type="text/javascript">
-	$(function() {
-		$(window).scroll(function(){
-			var distanceTop = $('#show').offset().top - $(window).height();
-			if  ($(window).scrollTop() > distanceTop)
-				$('#slidebox').animate({'bottom':'0px'},300);
-			else
-				$('#slidebox').stop(true).animate({'bottom':'-200px'},200);
-		});
-		$('#slidebox .close').bind('click',function(){
-			$(this).parent().remove();
-		});
-	});
-</script>
 
+	<!-- end pages wrapper -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 	<script src="js/jquery-3.4.1.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
 	<script src="js/fakeLoader.js"></script>
