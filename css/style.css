@@ -369,11 +369,11 @@ input[type=radio]:checked + label:before{
  position: absolute; /* Абсолютное позиционирование */
  left: 0; top: 0;
  width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-09.svg) no-repeat; /* Фоновый рисунок */
+ background: url(../img/svg/usluga1.svg) no-repeat; /* Фоновый рисунок */
  cursor: pointer; /* Курсор в виде руки */
 }
 .checkbox_category1 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-01.svg);
+ background-image: url(../img/svg/usluga6.svg);
 }
 .checkbox_category2 label {
  width: 100%; /* Ширина рисунка */
@@ -385,11 +385,11 @@ input[type=radio]:checked + label:before{
  position: absolute; /* Абсолютное позиционирование */
  left: 0; top: 0;
  width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-10.svg) no-repeat; /* Фоновый рисунок */
+ background: url(../img/svg/usluga2.svg) no-repeat; /* Фоновый рисунок */
  cursor: pointer; /* Курсор в виде руки */
 }
 .checkbox_category2 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-02.svg);
+ background-image: url(../img/svg/usluga1-cheked.svg);
 }
 .checkbox_category3 label {
  width: 100%; /* Ширина рисунка */
@@ -401,11 +401,11 @@ input[type=radio]:checked + label:before{
  position: absolute; /* Абсолютное позиционирование */
  left: 0; top: 0;
  width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-11.svg) no-repeat; /* Фоновый рисунок */
+ background: url(../img/svg/usluga3.svg) no-repeat; /* Фоновый рисунок */
  cursor: pointer; /* Курсор в виде руки */
 }
 .checkbox_category3 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-03.svg);
+ background-image: url(../img/svg/usluga6.svg);
 }
 .checkbox_category4 label {
  width: 100%; /* Ширина рисунка */
@@ -417,75 +417,11 @@ input[type=radio]:checked + label:before{
  position: absolute; /* Абсолютное позиционирование */
  left: 0; top: 0;
  width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-12.svg) no-repeat; /* Фоновый рисунок */
+ background: url(../img/svg/usluga4.svg) no-repeat; /* Фоновый рисунок */
  cursor: pointer; /* Курсор в виде руки */
 }
 .checkbox_category4 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-04.svg);
-}
-.checkbox_category5 label {
- width: 100%; /* Ширина рисунка */
- height: 200%; /* Высота рисунка */
- display: block; /* Блочный элемент */
- position: relative; /* Относительное позиционирование */
-}
-.checkbox_category5 input[type="checkbox"] + span {
- position: absolute; /* Абсолютное позиционирование */
- left: 0; top: 0;
- width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-13.svg) no-repeat; /* Фоновый рисунок */
- cursor: pointer; /* Курсор в виде руки */
-}
-.checkbox_category5 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-05.svg);
-}
-.checkbox_category6 label {
- width: 100%; /* Ширина рисунка */
- height: 200%; /* Высота рисунка */
- display: block; /* Блочный элемент */
- position: relative; /* Относительное позиционирование */
-}
-.checkbox_category6 input[type="checkbox"] + span {
- position: absolute; /* Абсолютное позиционирование */
- left: 0; top: 0;
- width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-14.svg) no-repeat; /* Фоновый рисунок */
- cursor: pointer; /* Курсор в виде руки */
-}
-.checkbox_category6 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-06.svg);
-}
-.checkbox_category7 label {
- width: 100%; /* Ширина рисунка */
- height: 200%; /* Высота рисунка */
- display: block; /* Блочный элемент */
- position: relative; /* Относительное позиционирование */
-}
-.checkbox_category7 input[type="checkbox"] + span {
- position: absolute; /* Абсолютное позиционирование */
- left: 0; top: 0;
- width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-15.svg) no-repeat; /* Фоновый рисунок */
- cursor: pointer; /* Курсор в виде руки */
-}
-.checkbox_category7 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-07.svg);
-}
-.checkbox_category8 label {
- width: 100%; /* Ширина рисунка */
- height: 200%; /* Высота рисунка */
- display: block; /* Блочный элемент */
- position: relative; /* Относительное позиционирование */
-}
-.checkbox_category8 input[type="checkbox"] + span {
- position: absolute; /* Абсолютное позиционирование */
- left: 0; top: 0;
- width: 100%; height: 100%;
- background: url(../img/svg/category_uslugi/Beauty_icons-16.svg) no-repeat; /* Фоновый рисунок */
- cursor: pointer; /* Курсор в виде руки */
-}
-.checkbox_category8 input[type="checkbox"]:checked + span   {
- background-image: url(../img/svg/category_uslugi/Beauty_icons-08.svg);
+ background-image: url(../img/svg/usluga6.svg);
 }
 .uslugi_category_checkbox input{
   width: 100px;
