@@ -3100,7 +3100,6 @@ width: 85%;
 padding-bottom: 20px;
 min-width: 320px;
     max-width: 400px;
-    height: 300px;
 /* фиксированное позиционирование, окно стабильно при прокрутке */
 position: fixed;
 border: 1px solid #383838;
@@ -3447,7 +3446,7 @@ color: rgba(49, 78, 120, 0.6);
     -moz-user-select: none;
     -ms-user-select: none;
     position: absolute;
-    top: 29%;
+    top: 63.90%;
     left: 7%;
 }
 
@@ -3558,7 +3557,7 @@ color: rgba(49, 78, 120, 0.6);
   margin-top: 20px;
 }
 .inst-media{
-  font-size: 12.5px;
+  font-size: 12px;
 }
 }
 

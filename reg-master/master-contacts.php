@@ -59,10 +59,6 @@ if (isset($_POST['add_contacts'])) {
 						</div>
 						
 					</div>
-					<div class="separator-large"></div>
-					<div class="button-default text-center">
-						<!-- <button class="button">Сохранить</button> -->
-					</div>
 			<a class="close"title="Закрыть" href="#close"></a>
 			</div>
 
@@ -77,10 +73,6 @@ if (isset($_POST['add_contacts'])) {
 							</span>
 						</div>
 						
-					</div>
-					<div class="separator-large"></div>
-					<div class="button-default text-center">
-						<!-- <button class="button">Сохранить</button> -->
 					</div>
 			<a class="close"title="Закрыть" href="#close"></a>
 			</div>
@@ -97,10 +89,6 @@ if (isset($_POST['add_contacts'])) {
 							</span>
 						</div>
 						
-					</div>
-					<div class="separator-large"></div>
-					<div class="button-default text-center">
-						<!-- <button class="button">Сохранить</button> -->
 					</div>
 			<a class="close"title="Закрыть" href="#close"></a>
 			</div>
